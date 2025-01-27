@@ -1,0 +1,44 @@
+# Ignore build and object files
+bin/
+obj/
+
+# Ignore user-specific settings files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore IDE/editor files and folders
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore NuGet packages
+packages/
+
+# Ignore local development cache
+.localhistory/
+
+# Ignore ReSharper files
+_ReSharper.*
+*.rsuser
+
+# Ignore Rider files
+*.sln.iml
+
+# Ignore backup files
+*.bak
+*.tmp
+
+# Ignore logs and output files
+*.log
+*.nupkg
+*.pdb
+*.dll
+*.exe
+
+# Ignore environment configuration files
+.env
+.env.local
